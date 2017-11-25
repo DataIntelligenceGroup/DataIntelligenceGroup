@@ -1,4 +1,4 @@
-# Data Intelligent
+# Data Intelligent Group
 Website Design Specification
 
 
